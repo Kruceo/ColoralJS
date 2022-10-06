@@ -1,3 +1,3 @@
-const {$} = require('../index');
+const {coloral : c} = require('../index');
 
-console.log($.markred(' ERROR '));
+console.log(c.markred(' ERROR '));
