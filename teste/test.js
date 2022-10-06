@@ -1,3 +1,3 @@
-const {coloral : c} = require('../index');
+const {coloral : c} = require('../coloral.js');
 
 console.log(c.markred(' ERROR '));
