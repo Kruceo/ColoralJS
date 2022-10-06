@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "type": "commonjs",
   "description": "Simple terminal color picker",
-  "main": "index.js",
+  "main": "coloral.js",
   "keywords": [
     "coloral"
   ],
@@ -20,5 +20,8 @@
   "scripts": 
   {
     "teste": "echo olá"
+  },
+  "bin": {
+    "coloral": "./bin/coloral.js"
   }
 }
