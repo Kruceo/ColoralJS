@@ -17,8 +17,7 @@
   "bugs": {
     "url": "https://github.com/kruceo/coloral/issues"
   },
-  "scripts": 
-  {
+  "scripts": {
     "teste": "echo olá"
   },
   "bin": {
