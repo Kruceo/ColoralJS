@@ -20,8 +20,5 @@
   },
   "scripts": {
     "teste": "echo olá"
-  },
-  "bin": {
-    "coloral": "./teste/test.js"
   }
 }
