@@ -43,7 +43,7 @@ const _lightmarkpurple = "\u001b[105m";
 const _lightmarkblue = "\u001b[106m";
 const _lightmarkwhite = "\u001b[107m";
 
-const all = {
+const $ = {
     normal: function normal(content) {
         return _normal + content + _normal;
     },
@@ -170,4 +170,4 @@ const all = {
     }
 }
 
-module.exports = { all }
+module.exports = { $ }
