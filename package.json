@@ -21,6 +21,6 @@
     "teste": "echo olá"
   },
   "bin": {
-    "coloral": "node ./teste/test.js"
+    "coloral": "./teste/test.js"
   }
 }
