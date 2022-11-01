@@ -170,4 +170,4 @@ const coloral = {
     }
 }
 
-module.exports = { coloral }
+module.exports = { coloral };

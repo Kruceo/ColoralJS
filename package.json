@@ -4,7 +4,6 @@
   "type": "commonjs",
   "description": "Simple terminal color picker",
   "main": "coloral.js",
-  "engines": {"node": ">=18.0.0"},
   "keywords": [
     "coloral"
   ],
@@ -17,8 +16,5 @@
   "homepage": "https://github.com/kruceo/coloral",
   "bugs": {
     "url": "https://github.com/kruceo/coloral/issues"
-  },
-  "scripts": {
-    "teste": "echo olá"
   }
 }
